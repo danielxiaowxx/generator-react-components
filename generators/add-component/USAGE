@@ -1,0 +1,5 @@
+Description:
+    Add a component to the project
+
+Example:
+    yo react-components:add-component goods-item

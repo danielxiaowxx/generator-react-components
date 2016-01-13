@@ -1,0 +1,5 @@
+Description:
+    Add a sub component to the main component
+
+Example:
+    yo react-components:add-subcomp
